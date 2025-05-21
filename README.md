@@ -157,7 +157,7 @@ docker logs dimdim-db
 
 ## Evidências de Funcionamento
 
-containerexec.png
+![Execução dos Containers](containerexec.png)
 
 ### Verificação de Containers em Execução
 ```bash
