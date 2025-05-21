@@ -157,8 +157,11 @@ docker logs dimdim-db
 
 ## Evidências de Funcionamento
 
+containerexec.png
+
 ### Verificação de Containers em Execução
 ```bash
+docker ps
 ```
 
 ### Verificação de Volume
